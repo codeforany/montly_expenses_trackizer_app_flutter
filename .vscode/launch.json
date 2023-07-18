@@ -1,0 +1,65 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "trackizer",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "trackizer (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "trackizer (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "calendar_agenda",
+            "cwd": "dev_lib/calendar_agenda",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "calendar_agenda (profile mode)",
+            "cwd": "dev_lib/calendar_agenda",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "calendar_agenda (release mode)",
+            "cwd": "dev_lib/calendar_agenda",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "card_swiper",
+            "cwd": "dev_lib/card_swiper",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "card_swiper (profile mode)",
+            "cwd": "dev_lib/card_swiper",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "card_swiper (release mode)",
+            "cwd": "dev_lib/card_swiper",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
